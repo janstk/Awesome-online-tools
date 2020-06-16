@@ -52,6 +52,9 @@ check their papers, emails, and other important documents.
 - [UZER.ME](https://uzer.me/) - 您的云端超级应用空间
 - [Feed43](http://www.feed43.com/) - Convert web pages into professionally looking RSS feeds
 - [SaveIG](https://saveig.com/?r=cf) - download instagram photos and videos
+- [JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
+- [JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
+- [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 
 
 
