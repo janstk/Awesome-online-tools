@@ -56,7 +56,10 @@ check their papers, emails, and other important documents.
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
 - [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
-
+- [OIDC Playground](https://oidc-playground.compile7.org/) - A developer-friendly sandbox for testing OpenID Connect (OIDC) flows, generating tokens, and debugging authentication requests.
+- [JWT Decoder](https://ssojet.com/jwt-validator/) - An online tool designed for decoding and verifying JSON Web Tokens (JWTs) is available.
+- [SAML Tester](https://ssojet.com/saml-tester) - A developer-friendly tool for testing SAML and SCIM integrations. Simulate an Identity Provider (IdP) and validate your SSO implementation with ease.
+- [SAML Tester](https://ssojet.com/saml-tools/) - Free SAML tools for testing, validation, and development—no login required.
 
 
 ## License
