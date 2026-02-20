@@ -54,6 +54,7 @@ check their papers, emails, and other important documents.
 - [SaveIG](https://saveig.com/?r=cf) - download instagram photos and videos
 - [JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
+- [DevToolBox](https://viadreams.cc) - 129+ free online developer tools including JSON formatter, Base64 encoder/decoder, JWT decoder, regex tester, hash generator, color converter, and more. 100% client-side processing, no data sent to servers.
 - [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
 
