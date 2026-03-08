@@ -2,7 +2,8 @@
 
 A list of awesome online tools
 
-
+- [HandyUtils](https://handyutils.app) - 250+ free online developer and utility tools. JSON formatter, Base64, UUID generator, unit converters, and more.
+- [DNSLens](https://dnslens.app) - Free DNS lookup and email security tool. Check SPF, DKIM, DMARC records and identify email/hosting providers.
 - [PicDiet](https://www.picdiet.com) - Unique & Powerful JavaScript algorithm to reduce image size by up to 80% without compromising quality
 - [KouTu](https://www.gaoding.com/koutu/) - 画几笔，3秒稿定透明背景
 - [SmartResize]( https://www.smartresize.com) - The fastest & smartest online batch image resize & crop tool in the world
