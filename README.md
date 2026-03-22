@@ -59,6 +59,7 @@ check their papers, emails, and other important documents.
 
 
 
+- [UtilShed](https://utilshed.com) - 100+ free online developer tools: JSON formatter, Base64 encoder, UUID generator, regex tester, hash generator, and more. No signup, no ads, open source.
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
