@@ -62,3 +62,4 @@ check their papers, emails, and other important documents.
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+- [KeyboardTester.click](https://keyboardtester.click) - Free hardware diagnostic suite covering keyboard, mouse, screen, webcam, microphone, and audio testing. 90+ tools, open source, no login.
