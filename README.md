@@ -4,9 +4,9 @@ A list of awesome online tools
 
 
 - [PicDiet](https://www.picdiet.com) - Unique & Powerful JavaScript algorithm to reduce image size by up to 80% without compromising quality
-- [KouTu](https://www.gaoding.com/koutu/) - 画几笔，3秒稿定透明背景
+- [KouTu](https://www.gaoding.com/koutu/) - ç»å ç¬ï¼3ç§ç¨¿å®éæèæ¯
 - [SmartResize]( https://www.smartresize.com) - The fastest & smartest online batch image resize & crop tool in the world
-- [Bigjpg](http://bigjpg.com) - AI人工智能图片放大
+- [Bigjpg](http://bigjpg.com) - AIäººå·¥æºè½å¾çæ¾å¤§
 - [SpriteCow](http://www.spritecow.com) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css. 
 - [Icomoon]( https://icomoon.io/app/#/select) - IcoMoon App - Icon Font, SVG, PDF & PNG Generator
 - [SmallPDF](https://smallpdf.com/) - We make PDF easy.
@@ -26,7 +26,7 @@ check their papers, emails, and other important documents.
 
 - [QuickLookPlugins](https://www.quicklookplugins.com) - A directory of Quick Look Plugins for Apple's OS X
 - [Aaencode](http://utf-8.jp/public/aaencode.html?src=alert(%22test%22)) - Encode any JavaScript program to Japanese style emoticons (^_^)
-- [mahua](http://mahua.jser.me) - 一个在线编辑markdown文档的编辑器
+- [mahua](http://mahua.jser.me) - ä¸ä¸ªå¨çº¿ç¼è¾markdownææ¡£çç¼è¾å¨
 - [Cli.im](https://cli.im) - QRCode generator
 - [Cryptii](https://cryptii.com) - Modular online encoding, encryption and conversion tool
 
@@ -47,9 +47,9 @@ check their papers, emails, and other important documents.
 - [Shapefly Diagram](http://d.shapefly.com) - Must Have Free Software Online About Diagram, Flowcharts & Shapes 
 - [Photofunia](http://photofunia.com/) - All effects - PhotoFunia: Free pic editor online with library of picture effects & photo filters
 - [AudioTag](http://audiotag.info/index.php) -  A free music-recognition service.
-- [PDFToWord](https://www.pdftoword.com/) - PDF to Word Converter – 100% Free
+- [PDFToWord](https://www.pdftoword.com/) - PDF to Word Converter â 100% Free
 - [Mergely](http://www.mergely.com/editor) - Diff online, merge documents
-- [UZER.ME](https://uzer.me/) - 您的云端超级应用空间
+- [UZER.ME](https://uzer.me/) - æ¨çäºç«¯è¶çº§åºç¨ç©ºé´
 - [Feed43](http://www.feed43.com/) - Convert web pages into professionally looking RSS feeds
 - [SaveIG](https://saveig.com/?r=cf) - download instagram photos and videos
 - [JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
@@ -63,5 +63,4 @@ check their papers, emails, and other important documents.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-
-* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
+* [Remove Audio](https://remove-audio.com) - Free, browser-based audio remover. No uploads, no sign-up, no watermarks. Batch up to 20 clips.
