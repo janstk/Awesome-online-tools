@@ -17,6 +17,7 @@ A list of awesome online tools
 - [Grammarly](https://www.grammarly.com) - Millions of students and professionals use Grammarly to 
 check their papers, emails, and other important documents.
 - [Keybr](https://www.keybr.com/) - Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor.
+- [Knexio](https://knexio.xyz) - Free online tools & calculators — AI tools, business calculators, games, formatters, and guides.
 - [Convertio](https://convertio.co/) - Advanced Tool to Convert Files to Any Format.
 - [AutoDraw](https://www.autodraw.com/) - Fast drawing for everyone
 - [JsonEditorOnline](http://jsoneditoronline.org) - Json Editor
