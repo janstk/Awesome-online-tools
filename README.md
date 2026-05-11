@@ -19,6 +19,7 @@ check their papers, emails, and other important documents.
 - [Keybr](https://www.keybr.com/) - Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor.
 - [Convertio](https://convertio.co/) - Advanced Tool to Convert Files to Any Format.
 - [AutoDraw](https://www.autodraw.com/) - Fast drawing for everyone
+- [Better Call Saul Card Generator](https://bettercallsaul.store/en/) - Make Better Call Saul inspired cards with editable text, photo upload, font controls, and free PNG downloads.
 - [JsonEditorOnline](http://jsoneditoronline.org) - Json Editor
 
 - [Ludwig](https://ludwig.guru) - Ludwig is the linguistic search engine that helps you to write better in English
