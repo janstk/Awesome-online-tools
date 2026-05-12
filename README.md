@@ -20,6 +20,7 @@ check their papers, emails, and other important documents.
 - [Convertio](https://convertio.co/) - Advanced Tool to Convert Files to Any Format.
 - [AutoDraw](https://www.autodraw.com/) - Fast drawing for everyone
 - [JsonEditorOnline](http://jsoneditoronline.org) - Json Editor
+- [DevPick](https://devpick.sh) - Privacy-friendly browser-based developer toolbox with JSON formatter, Base64 encoder/decoder, regex tester, cron generator, QR codes, PDF utilities, and SEO helpers.
 
 - [Ludwig](https://ludwig.guru) - Ludwig is the linguistic search engine that helps you to write better in English
 - [Online-Convert](https://www.online-convert.com) - Convert media free, fast and online. No software installation needed.
