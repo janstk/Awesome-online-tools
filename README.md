@@ -28,6 +28,7 @@ check their papers, emails, and other important documents.
 - [Aaencode](http://utf-8.jp/public/aaencode.html?src=alert(%22test%22)) - Encode any JavaScript program to Japanese style emoticons (^_^)
 - [mahua](http://mahua.jser.me) - 一个在线编辑markdown文档的编辑器
 - [Cli.im](https://cli.im) - QRCode generator
+- [Bulk QR Code Generator for Excel and CSV](https://www.bulkqrcodegenerator.art/) - Generate QR codes or Code 128 barcodes from spreadsheet rows, then export ZIP, PDF, or SVG files.
 - [Cryptii](https://cryptii.com) - Modular online encoding, encryption and conversion tool
 
 
