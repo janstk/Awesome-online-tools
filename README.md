@@ -58,6 +58,8 @@ check their papers, emails, and other important documents.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
 
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utility suite: OG image generator, favicon generator, AI background remover (runs locally), color palette generator, SEO meta tag generator, domain name generator, AI cost calculator, EU AI Act disclosure generator, AI robots.txt generator. Open source, no signup.
+
 
 ## License
 
