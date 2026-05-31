@@ -3,6 +3,8 @@
 A list of awesome online tools
 
 
+- [ShotFrame](https://tyr1105.github.io/shotframe/) - Free screenshot beautifier with customizable backgrounds, padding, and borders. 100% browser-side, no registration, no watermarks.
+- [万能工具箱 (Universal Toolbox)](https://tyr1105.github.io/) - 42+ free online tools (JSON formatter, Base64, image compression, QR code generator, and more). 100% browser-side, no registration.
 - [PicDiet](https://www.picdiet.com) - Unique & Powerful JavaScript algorithm to reduce image size by up to 80% without compromising quality
 - [KouTu](https://www.gaoding.com/koutu/) - 画几笔，3秒稿定透明背景
 - [SmartResize]( https://www.smartresize.com) - The fastest & smartest online batch image resize & crop tool in the world
