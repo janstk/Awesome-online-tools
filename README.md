@@ -56,6 +56,9 @@ check their papers, emails, and other important documents.
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
 - [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
+- [Mac PPI Calculator & Retina Checker](https://retinadesk.com/tools/ppi-calculator/) - Calculate a monitor's pixel density and whether it renders Retina-sharp on macOS, with a HiDPI scaling preview.
+- [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/) - Check whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable can drive 4K120, 5K60, or 6K on a Mac.
+- [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - Reference for external display counts, resolutions, and refresh rates on each Apple Silicon Mac.
 
 
 
