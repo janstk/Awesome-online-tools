@@ -58,6 +58,9 @@ check their papers, emails, and other important documents.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
 
 
+- [ProductDirs](https://productdirs.com/) - Curated directory to discover and submit AI tools and technology products.
+- [ThisTools](https://thistools.app/) - Product discovery platform for browsing, submitting, and upvoting new tech products.
+
 
 ## License
 
