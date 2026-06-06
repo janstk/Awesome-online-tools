@@ -18,6 +18,7 @@ A list of awesome online tools
 check their papers, emails, and other important documents.
 - [Keybr](https://www.keybr.com/) - Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor.
 - [Convertio](https://convertio.co/) - Advanced Tool to Convert Files to Any Format.
+- [AI Image Combiner](https://aiimgcombiner.com/) - AI image tool to merge two photos into one with preset styles and custom prompts.
 - [AutoDraw](https://www.autodraw.com/) - Fast drawing for everyone
 - [JsonEditorOnline](http://jsoneditoronline.org) - Json Editor
 
