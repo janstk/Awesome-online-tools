@@ -42,6 +42,7 @@ check their papers, emails, and other important documents.
 - [Rextester](http://rextester.com/) - compile c# online
 
 - [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG compression
+- [FreePNGConvert](https://freepngconvert.com/) - Free browser-side WebP to PNG converter. No upload to server, fast, private, unlimited conversions.
 
 - [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife
 - [Shapefly Diagram](http://d.shapefly.com) - Must Have Free Software Online About Diagram, Flowcharts & Shapes 
