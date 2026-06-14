@@ -18,6 +18,7 @@ A list of awesome online tools
 check their papers, emails, and other important documents.
 - [Keybr](https://www.keybr.com/) - Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor.
 - [Convertio](https://convertio.co/) - Advanced Tool to Convert Files to Any Format.
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG converter that runs entirely in your browser. No upload, privacy-first, unlimited.
 - [AutoDraw](https://www.autodraw.com/) - Fast drawing for everyone
 - [JsonEditorOnline](http://jsoneditoronline.org) - Json Editor
 
@@ -42,6 +43,7 @@ check their papers, emails, and other important documents.
 - [Rextester](http://rextester.com/) - compile c# online
 
 - [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG compression
+- [FreePNGConvert](https://freepngconvert.com/) - Free browser-side WebP to PNG converter. No upload to server, fast, private, unlimited conversions.
 
 - [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife
 - [Shapefly Diagram](http://d.shapefly.com) - Must Have Free Software Online About Diagram, Flowcharts & Shapes 
