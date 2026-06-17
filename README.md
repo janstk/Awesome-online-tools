@@ -2,6 +2,8 @@
 
 A list of awesome online tools
 
+- [Mini Tools](https://mini-tools.uk) - Self-recommendation: free multilingual online tools, including a UK tax calculator, VAT calculator, mortgage calculator, free image hosting with Markdown links, PDF tools, and developer utilities.
+
 
 - [PicDiet](https://www.picdiet.com) - Unique & Powerful JavaScript algorithm to reduce image size by up to 80% without compromising quality
 - [KouTu](https://www.gaoding.com/koutu/) - 画几笔，3秒稿定透明背景
