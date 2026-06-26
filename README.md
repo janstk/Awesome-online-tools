@@ -3,6 +3,7 @@
 A list of awesome online tools
 
 
+* [SwiftTooly](https://swifttooly.com) - 50+ free privacy-first online tools for PDF, images, text, QR codes, converters, calculators, and developer utilities. Browser-based, no upload, and no sign-up.
 - [PicDiet](https://www.picdiet.com) - Unique & Powerful JavaScript algorithm to reduce image size by up to 80% without compromising quality
 - [KouTu](https://www.gaoding.com/koutu/) - 画几笔，3秒稿定透明背景
 - [SmartResize]( https://www.smartresize.com) - The fastest & smartest online batch image resize & crop tool in the world
