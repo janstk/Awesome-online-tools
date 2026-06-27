@@ -11,6 +11,7 @@ A list of awesome online tools
 - [Icomoon]( https://icomoon.io/app/#/select) - IcoMoon App - Icon Font, SVG, PDF & PNG Generator
 - [SmallPDF](https://smallpdf.com/) - We make PDF easy.
 - [Free Web Apps](https://123apps.com/)
+- [Jisuanqi 3000](https://jsq3000.com/) - Free China-localized online calculators for mortgage, income tax, take-home salary, auto purchase cost, compound interest, BMI, body fat and more.
 - [Regexr](https://regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 - [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) - JavaScript Regular Expression Visualizer
 - [TablesGenerator](http://www.tablesgenerator.com/markdown_tables) - Markdown Tables Generator
