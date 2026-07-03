@@ -42,6 +42,7 @@ check their papers, emails, and other important documents.
 - [Rextester](http://rextester.com/) - compile c# online
 
 - [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG compression
+- [Mini-Tools Free Image Hosting](https://mini-tools.uk/upload) - Upload an image and generate direct URL, Markdown, HTML, and BBCode snippets for README files, documentation, forums, and quick sharing.
 
 - [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife
 - [Shapefly Diagram](http://d.shapefly.com) - Must Have Free Software Online About Diagram, Flowcharts & Shapes 
