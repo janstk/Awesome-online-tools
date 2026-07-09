@@ -49,6 +49,7 @@ check their papers, emails, and other important documents.
 - [AudioTag](http://audiotag.info/index.php) -  A free music-recognition service.
 - [PDFToWord](https://www.pdftoword.com/) - PDF to Word Converter – 100% Free
 - [Mergely](http://www.mergely.com/editor) - Diff online, merge documents
+- [TextFaker](https://textfaker.com/) - Create realistic iPhone-style text message screenshots for demos, lessons, stories, and UI mockups.
 - [UZER.ME](https://uzer.me/) - 您的云端超级应用空间
 - [Feed43](http://www.feed43.com/) - Convert web pages into professionally looking RSS feeds
 - [SaveIG](https://saveig.com/?r=cf) - download instagram photos and videos
