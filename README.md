@@ -53,6 +53,10 @@ check their papers, emails, and other important documents.
 - [Feed43](http://www.feed43.com/) - Convert web pages into professionally looking RSS feeds
 - [SaveIG](https://saveig.com/?r=cf) - download instagram photos and videos
 - [JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
+- [LivePhotoKit](https://livephotokit.com/) - Convert HEIC images and extract JPG/MP4 from Apple LIVP and Live Photo files directly in the browser
+- [iWorkViewer](https://iworkviewer.com/) - Compatibility guidance for opening and converting Apple Pages, Numbers, and Keynote files on Windows
+- [InvoicePad](https://invoicepad.net/) - Free privacy-first invoice generator with instant PDF export and no sign-up
+- [ZonePlan](https://zoneplan.net/) - Cross-time-zone meeting planner with working-hour overlap and daylight-saving support
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
 - [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
