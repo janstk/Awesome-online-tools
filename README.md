@@ -14,6 +14,7 @@ A list of awesome online tools
 - [Regexr](https://regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 - [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) - JavaScript Regular Expression Visualizer
 - [TablesGenerator](http://www.tablesgenerator.com/markdown_tables) - Markdown Tables Generator
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free concrete calculators for slabs, bag counts, ready-mix comparisons, post holes, footings, and cost planning.
 - [Grammarly](https://www.grammarly.com) - Millions of students and professionals use Grammarly to 
 check their papers, emails, and other important documents.
 - [Keybr](https://www.keybr.com/) - Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor.
