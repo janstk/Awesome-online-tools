@@ -51,6 +51,7 @@ check their papers, emails, and other important documents.
 - [Mergely](http://www.mergely.com/editor) - Diff online, merge documents
 - [UZER.ME](https://uzer.me/) - 您的云端超级应用空间
 - [Feed43](http://www.feed43.com/) - Convert web pages into professionally looking RSS feeds
+- [DateCalx](https://datecalx.com/) - Free online date, age, business day, calendar, countdown, and time calculation tools.
 - [SaveIG](https://saveig.com/?r=cf) - download instagram photos and videos
 - [JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
