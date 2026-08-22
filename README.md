@@ -62,3 +62,4 @@ check their papers, emails, and other important documents.
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+- [utils.im](https://utils.im/) - 110+ free in-browser tools: finance/health/date calculators, unit converters, timers, file & PDF utilities and quick games. 10 languages, offline PWA.
