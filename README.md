@@ -10,6 +10,7 @@ A list of awesome online tools
 - [SpriteCow](http://www.spritecow.com) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css. 
 - [Icomoon]( https://icomoon.io/app/#/select) - IcoMoon App - Icon Font, SVG, PDF & PNG Generator
 - [SmallPDF](https://smallpdf.com/) - We make PDF easy.
+- [PDFForYou](https://pdfforyou.in) - Free browser-based PDF & image toolkit (merge, split, compress, crop, sign, watermark, convert) plus a passport photo cropper, invoice generator, and rent receipt generator. All client-side, no uploads.
 - [Free Web Apps](https://123apps.com/)
 - [Regexr](https://regexr.com/) - RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 - [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) - JavaScript Regular Expression Visualizer
