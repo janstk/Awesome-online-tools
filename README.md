@@ -29,7 +29,7 @@ check their papers, emails, and other important documents.
 - [mahua](http://mahua.jser.me) - 一个在线编辑markdown文档的编辑器
 - [Cli.im](https://cli.im) - QRCode generator
 - [Cryptii](https://cryptii.com) - Modular online encoding, encryption and conversion tool
-
+- [Every Boring Tool](https://everyboringtool.com) - 255 free online tools (PDF, image, text, converters, calculators) with no sign-up — everything runs in your browser
 
 
 
