@@ -44,6 +44,7 @@ check their papers, emails, and other important documents.
 - [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG compression
 
 - [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife
+- [Text Reverse](https://textreverse.io) - Reverse, flip, or write text backwards in your browser
 - [Shapefly Diagram](http://d.shapefly.com) - Must Have Free Software Online About Diagram, Flowcharts & Shapes 
 - [Photofunia](http://photofunia.com/) - All effects - PhotoFunia: Free pic editor online with library of picture effects & photo filters
 - [AudioTag](http://audiotag.info/index.php) -  A free music-recognition service.
