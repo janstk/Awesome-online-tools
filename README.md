@@ -59,6 +59,8 @@ check their papers, emails, and other important documents.
 
 
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser-only freelance billing and client-document tools: invoice, credit note, quote, rate calculator, and more; no signup.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
