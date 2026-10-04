@@ -57,6 +57,7 @@ check their papers, emails, and other important documents.
 - [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
 
+- [Firm Beacon On-Page SEO Checker](https://www.firmbeacon.co.uk/tools/seo-checker?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_online_tools) - Check one public page's title, meta description, H1, canonical, robots, language, viewport and Open Graph tags without an account.
 
 
 ## License
