@@ -56,6 +56,7 @@ check their papers, emails, and other important documents.
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
 - [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
+- [KupFollowersow follower-growth calculator (Polish interface)](https://kupfollowersow.pl/tools/follower-growth) - Free browser-only calculator for the difference to a follower target and the required average net increase per day and week; manual inputs, no signup or profile lookup.
 
 
 
