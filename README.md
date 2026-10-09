@@ -46,6 +46,7 @@ check their papers, emails, and other important documents.
 - [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife
 - [Shapefly Diagram](http://d.shapefly.com) - Must Have Free Software Online About Diagram, Flowcharts & Shapes 
 - [Photofunia](http://photofunia.com/) - All effects - PhotoFunia: Free pic editor online with library of picture effects & photo filters
+- [Stunna browser photo tools](https://stunna-app.com/tools) - Free camera-inspired photo filters, photo booth and photo strip maker; local browser processing, no account or watermark.
 - [AudioTag](http://audiotag.info/index.php) -  A free music-recognition service.
 - [PDFToWord](https://www.pdftoword.com/) - PDF to Word Converter – 100% Free
 - [Mergely](http://www.mergely.com/editor) - Diff online, merge documents
