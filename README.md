@@ -4,6 +4,7 @@ A list of awesome online tools
 
 
 - [PicDiet](https://www.picdiet.com) - Unique & Powerful JavaScript algorithm to reduce image size by up to 80% without compromising quality
+- [ImgFlow](https://imgflow.taoliapp.com) - Privacy-first image compression and format conversion that runs entirely in the browser (no upload)
 - [KouTu](https://www.gaoding.com/koutu/) - 画几笔，3秒稿定透明背景
 - [SmartResize]( https://www.smartresize.com) - The fastest & smartest online batch image resize & crop tool in the world
 - [Bigjpg](http://bigjpg.com) - AI人工智能图片放大
