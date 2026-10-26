@@ -16,6 +16,7 @@ A list of awesome online tools
 - [TablesGenerator](http://www.tablesgenerator.com/markdown_tables) - Markdown Tables Generator
 - [Grammarly](https://www.grammarly.com) - Millions of students and professionals use Grammarly to 
 check their papers, emails, and other important documents.
+- [ResumePlot](https://resumeplot.com/) - Browser-based resume editing, import and PDF/JSON export; Free plan offers one local resume and 5 AI edits per month after sign-in.
 - [Keybr](https://www.keybr.com/) - Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor.
 - [Convertio](https://convertio.co/) - Advanced Tool to Convert Files to Any Format.
 - [AutoDraw](https://www.autodraw.com/) - Fast drawing for everyone
@@ -46,6 +47,8 @@ check their papers, emails, and other important documents.
 - [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife
 - [Shapefly Diagram](http://d.shapefly.com) - Must Have Free Software Online About Diagram, Flowcharts & Shapes 
 - [Photofunia](http://photofunia.com/) - All effects - PhotoFunia: Free pic editor online with library of picture effects & photo filters
+- [NailMoodLab](https://nailmoodlab.com/) - AI nail-design concepts and virtual try-on; sign-in and allowance required, with 5 AI actions per month on the Free plan.
+- [LookScene](https://lookscene.packscena.com/) - Personal AI hairstyle, outfit and portrait previews; invitation-only free trial, sign-in, photo consent and credits required.
 - [AudioTag](http://audiotag.info/index.php) -  A free music-recognition service.
 - [PDFToWord](https://www.pdftoword.com/) - PDF to Word Converter – 100% Free
 - [Mergely](http://www.mergely.com/editor) - Diff online, merge documents
@@ -56,6 +59,11 @@ check their papers, emails, and other important documents.
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
 - [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
+- [LogoMovo](https://logomovo.com/) - AI-assisted logo directions with editable symbols, typography and layout; Studio and SVG/PNG downloads require an account and active paid plan.
+- [AI Lab Utilities](https://ailab.packscena.com/) - Browser utility hub with a no-login basic image-compression experience; other complete tools require sign-in and points.
+- [SubAtlas](https://subatlas.packscena.com/) - Source-linked AI subscription-offer comparison with term, region, currency and delivery filters; third-party listings are separate from official regional reference prices.
+- [DishVivid](https://dishvivid.com/) - Food-photo lighting, color and crop editing with original/result comparison and JPEG download; manual editing needs no account, while optional AI needs sign-in and available edits.
+- [Paper Texture](https://paper-texture.com/) - Free browser-local paper overlay editor plus six AI-generated PNG samples under a design-use license; original files are not CC0 or licensed for standalone redistribution.
 
 
 
