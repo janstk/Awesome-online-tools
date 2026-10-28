@@ -59,6 +59,8 @@ check their papers, emails, and other important documents.
 
 
 
+- [NEON DUO](https://a2oliteneon.xyz/) - Two-photo AI duo dance video generator for consenting adults; paid credit packs, private MP4 downloads, and a free photo preparation guide.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
