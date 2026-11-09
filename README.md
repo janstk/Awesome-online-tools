@@ -47,6 +47,7 @@ check their papers, emails, and other important documents.
 - [Shapefly Diagram](http://d.shapefly.com) - Must Have Free Software Online About Diagram, Flowcharts & Shapes 
 - [Photofunia](http://photofunia.com/) - All effects - PhotoFunia: Free pic editor online with library of picture effects & photo filters
 - [AudioTag](http://audiotag.info/index.php) -  A free music-recognition service.
+- [Online Tone Generator](https://online-tone-generator.com/) - Browser-based tone generator with adjustable frequency, four waveforms, and WAV export.
 - [PDFToWord](https://www.pdftoword.com/) - PDF to Word Converter – 100% Free
 - [Mergely](http://www.mergely.com/editor) - Diff online, merge documents
 - [UZER.ME](https://uzer.me/) - 您的云端超级应用空间
