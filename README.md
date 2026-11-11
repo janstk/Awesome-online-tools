@@ -29,6 +29,7 @@ check their papers, emails, and other important documents.
 - [mahua](http://mahua.jser.me) - 一个在线编辑markdown文档的编辑器
 - [Cli.im](https://cli.im) - QRCode generator
 - [Cryptii](https://cryptii.com) - Modular online encoding, encryption and conversion tool
+- [Easy Morse Code Translator](https://easymorsecodetranslator.com/) - Free online Morse code translator in 20 languages. Convert text to Morse code and back, decode Morse from audio or images, and play it as sound, light or vibration.
 
 
 
