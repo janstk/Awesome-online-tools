@@ -4,6 +4,7 @@ A list of awesome online tools
 
 
 - [PicDiet](https://www.picdiet.com) - Unique & Powerful JavaScript algorithm to reduce image size by up to 80% without compromising quality
+- [Denwix](https://denwix.com/) - 100+ free browser-based tools for developers, marketers and SEO: converters, SEO checkers, text and dev utilities. No sign-up, nothing uploaded.
 - [KouTu](https://www.gaoding.com/koutu/) - 画几笔，3秒稿定透明背景
 - [SmartResize]( https://www.smartresize.com) - The fastest & smartest online batch image resize & crop tool in the world
 - [Bigjpg](http://bigjpg.com) - AI人工智能图片放大
