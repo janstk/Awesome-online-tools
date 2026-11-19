@@ -17,6 +17,7 @@ A list of awesome online tools
 - [Grammarly](https://www.grammarly.com) - Millions of students and professionals use Grammarly to 
 check their papers, emails, and other important documents.
 - [Keybr](https://www.keybr.com/) - Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor.
+- [ReflexTimer](https://reflextimer.com/) - Free reaction time, clicks-per-second (CPS) and aim tests in the browser, with percentile results and no signup.
 - [Convertio](https://convertio.co/) - Advanced Tool to Convert Files to Any Format.
 - [AutoDraw](https://www.autodraw.com/) - Fast drawing for everyone
 - [JsonEditorOnline](http://jsoneditoronline.org) - Json Editor
